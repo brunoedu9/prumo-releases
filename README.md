@@ -15,3 +15,5 @@ Se o Windows mostrar **"O Windows protegeu o computador"**, clique em **Mais inf
 ---
 
 Este repositório guarda só os instaladores e os arquivos de atualização do app.
+
+[Política de privacidade](PRIVACIDADE.md)
